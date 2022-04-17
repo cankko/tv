@@ -7,7 +7,7 @@ https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 https://mn-nl.mncdn.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="3. Kanal D" group-title="Turkish" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2ttHzC4/kanald.png", Kanal D
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1000/playlist.m3u8
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="4. Show TV" group-title="Turkish" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png", Show TV
 https://mn-nl.mncdn.com/blutv_showtv2/live_720p2000000kbps/index.m3u8
