@@ -1,107 +1,107 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1
+#EXTINF:-1 tvg-id="tr_1" tvg-name="TRT 1" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 
-#EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
+#EXTINF:-1 tvg-id="tr_2" tvg-name="TRT Spor" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2ttHzC4/kanald.png",Kanal D
+#EXTINF:-1 tvg-id="tr_K3" tvg-name="Kanal D" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2ttHzC4/kanald.png",Kanal D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 #https://mn-nl.mncdn.com/blutv_kanald2/live_720p2000000kbps/index.m3u8
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png",Show TV
+#EXTINF:-1 tvg-id="tr_4" tvg-name="Show TV" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png",Show TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/blutv_showtv2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
+#EXTINF:-1 tvg-id="tr_5" tvg-name="atv (TR)" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png",Star TV
+#EXTINF:-1 tvg-id="tr_6" tvg-name="Star TV (TR)" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png",Star TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/blutv_startv2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png",FOX
+#EXTINF:-1 tvg-id="tr_7" tvg-name="Fox TR" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png",FOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/blutv_foxtv2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
+#EXTINF:-1 tvg-id="tr_8" tvg-name="TV8" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
 http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png",TV8.5
+#EXTINF:-1 tvg-id="tr_9" tvg-name="TV8.5" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png",TV8.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png",Beyaz TV
+#EXTINF:-1 tvg-id="tr_10" tvg-name="Beyaz TV" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png",Beyaz TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png",TRT Çocuk
+#EXTINF:-1 tvg-id="tr_11" tvg-name="TRT Çocuk" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png",TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQM08hH/minikago.png",Minika Go
+#EXTINF:-1 tvg-id="tr_12" tvg-name="Minika Go" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQM08hH/minikago.png",Minika Go
 http://missing
 
-#EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3RVSssb/minikacocuk.png",Minika Çocuk
+#EXTINF:-1 tvg-id="tr_13" tvg-name="Minika Çocuk" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3RVSssb/minikacocuk.png",Minika Çocuk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://antalya.tvizlehd.com/live/minikacocuk.m3u8
 
-#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Hd6cPGm/haberturk.png",HABERTURK
+#EXTINF:-1 tvg-id="tr_14" tvg-name="HABERTURK" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Hd6cPGm/haberturk.png",HABERTURK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/blutv_haberturk_dvr/live_720p2000000/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png",CNN Türk
+#EXTINF:-1 tvg-id="tr_15" tvg-name="CNN TÜRK" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png",CNN Türk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Halk TV" tvg-name="Halk TV" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZSBB9GG/halktv.png",Halk TV
+#EXTINF:-1 tvg-id="tr_16" tvg-name="Halk TV" group-title="türkce" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZSBB9GG/halktv.png",Halk TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+#EXTINF:-1 tvg-id="de_1" tvg-name="Das Erste HD" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+#EXTINF:-1 tvg-id="de_2" tvg-name="ZDF HD" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
+#EXTINF:-1 tvg-id="de_3" tvg-name="3sat" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
+#EXTINF:-1 tvg-id="de_4" tvg-name="ARTE HD" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
 
-#EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD
+#EXTINF:-1 tvg-id="de_5" tvg-name="ServusTV HD" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD
 https://stv-live.akamaized.net/hls/live/2031020/lingeoSTVDEwebBU/master.m3u8
 
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+#EXTINF:-1 tvg-id="de_6" tvg-name="ARD-alpha" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+#EXTINF:-1 tvg-id="de_7" tvg-name="one HD" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
+#EXTINF:-1 tvg-id="de_8" tvg-name="ZDFneo HD" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+#EXTINF:-1 tvg-id="de_9" tvg-name="ZDFinfo HD" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+#EXTINF:-1 tvg-id="de_10" tvg-name="phoenix HD" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+#EXTINF:-1 tvg-id="de_11" tvg-name="tagesschau24" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+#EXTINF:-1 tvg-id="de_12" tvg-name="WELT" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
 http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
 
-#EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
+#EXTINF:-1 tvg-id="de_13" tvg-name="euronews deutsch" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RiC" tvg-id="RiC.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC
+#EXTINF:-1 tvg-id="de_14" tvg-name="RiC" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC
 plugin://plugin.video.youtube/play/?video_id=nNIYfwCkx5M
 
-#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
+#EXTINF:-1 tvg-id="de_15" tvg-name="KiKA" group-title="deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
